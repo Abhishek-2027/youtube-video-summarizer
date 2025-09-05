@@ -1,6 +1,8 @@
 streamlit
 pytube
 llama-cpp-python
+haystack-ai
 farm-haystack>=1.28
 pydantic>=2
+
 requests
