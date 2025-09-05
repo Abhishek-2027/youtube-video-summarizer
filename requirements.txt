@@ -1,0 +1,6 @@
+streamlit
+pytube
+llama-cpp-python
+farm-haystack>=1.28
+pydantic>=2
+requests
